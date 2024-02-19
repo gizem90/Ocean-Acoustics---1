@@ -1,0 +1,1 @@
+This repo summarizes ocean acoustics. It expresses physical characteristics of underwater acoustics, imaging methods, and  application of acoustic imaging. The repo also discusses multiple types of sensors that can be implemented for acoustic imaging and acoustic signal processing.  
